@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Killow1998
 - 👀 I’m interested in SLAM and AUTO EXPLORATION
-- 🌱 I’m currently learning UAV 
+- 🌱 I’m currently learning UAV, UGV and Leg Robot
 - 📫 U can reach me with killow1998@gmail.com
 
 <!---
